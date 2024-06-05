@@ -1,0 +1,45 @@
+body{
+    background-color: #657ED4;
+}
+
+.container{
+    border: 1px solid black;
+    background-color: #FF331F;
+    width: 95%;
+    height: 65vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 25%;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.counter{
+    border: 5px solid white;
+    width: 650px;
+    height: 350px;
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+    background-color: white;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.counter h1{
+    font-size: 4rem;
+}
+
+#count{
+    font-size: 9rem;
+}
+
+.box{
+    
+    margin-bottom: 25%;
+    
+}
